@@ -16,6 +16,17 @@
 		04A74DA624BE984500D075DA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 04A74DA524BE984500D075DA /* main.m */; };
 		04A74DB024BE984500D075DA /* WJPhotoBrowserTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04A74DAF24BE984500D075DA /* WJPhotoBrowserTests.m */; };
 		04A74DBB24BE984500D075DA /* WJPhotoBrowserUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04A74DBA24BE984500D075DA /* WJPhotoBrowserUITests.m */; };
+		04A74DCB24BE987900D075DA /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04A74DCA24BE987900D075DA /* MainViewController.m */; };
+		04A74DCE24BE992500D075DA /* WJPhotoTools.m in Sources */ = {isa = PBXBuildFile; fileRef = 04A74DCD24BE992500D075DA /* WJPhotoTools.m */; };
+		04A74DD124BE99C700D075DA /* WJPhotoAlbumModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 04A74DD024BE99C700D075DA /* WJPhotoAlbumModel.m */; };
+		04A74DD524BE9A1200D075DA /* WJPhotoModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 04A74DD424BE9A1200D075DA /* WJPhotoModel.m */; };
+		04A74DDB24BE9F6200D075DA /* WJCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 04A74DDA24BE9F6200D075DA /* WJCollectionViewCell.m */; };
+		04A74DE024BEA59C00D075DA /* WJVideo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04A74DDE24BEA59B00D075DA /* WJVideo@2x.png */; };
+		04A74DE124BEA59C00D075DA /* WJVideo@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04A74DDF24BEA59B00D075DA /* WJVideo@3x.png */; };
+		04A74DE624BEA5BB00D075DA /* WJBtnSelected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04A74DE224BEA5BA00D075DA /* WJBtnSelected@2x.png */; };
+		04A74DE724BEA5BB00D075DA /* WJBtnSelected@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04A74DE324BEA5BA00D075DA /* WJBtnSelected@3x.png */; };
+		04A74DE824BEA5BB00D075DA /* WJBtnUnSelected@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04A74DE424BEA5BA00D075DA /* WJBtnUnSelected@3x.png */; };
+		04A74DE924BEA5BB00D075DA /* WJBtnUnSelected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 04A74DE524BEA5BA00D075DA /* WJBtnUnSelected@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +65,22 @@
 		04A74DB624BE984500D075DA /* WJPhotoBrowserUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WJPhotoBrowserUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		04A74DBA24BE984500D075DA /* WJPhotoBrowserUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WJPhotoBrowserUITests.m; sourceTree = "<group>"; };
 		04A74DBC24BE984500D075DA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04A74DC924BE987900D075DA /* MainViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		04A74DCA24BE987900D075DA /* MainViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		04A74DCC24BE992500D075DA /* WJPhotoTools.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WJPhotoTools.h; sourceTree = "<group>"; };
+		04A74DCD24BE992500D075DA /* WJPhotoTools.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WJPhotoTools.m; sourceTree = "<group>"; };
+		04A74DCF24BE99C700D075DA /* WJPhotoAlbumModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WJPhotoAlbumModel.h; sourceTree = "<group>"; };
+		04A74DD024BE99C700D075DA /* WJPhotoAlbumModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WJPhotoAlbumModel.m; sourceTree = "<group>"; };
+		04A74DD324BE9A1200D075DA /* WJPhotoModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WJPhotoModel.h; sourceTree = "<group>"; };
+		04A74DD424BE9A1200D075DA /* WJPhotoModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WJPhotoModel.m; sourceTree = "<group>"; };
+		04A74DD924BE9F6200D075DA /* WJCollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WJCollectionViewCell.h; sourceTree = "<group>"; };
+		04A74DDA24BE9F6200D075DA /* WJCollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WJCollectionViewCell.m; sourceTree = "<group>"; };
+		04A74DDE24BEA59B00D075DA /* WJVideo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "WJVideo@2x.png"; sourceTree = "<group>"; };
+		04A74DDF24BEA59B00D075DA /* WJVideo@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "WJVideo@3x.png"; sourceTree = "<group>"; };
+		04A74DE224BEA5BA00D075DA /* WJBtnSelected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "WJBtnSelected@2x.png"; sourceTree = "<group>"; };
+		04A74DE324BEA5BA00D075DA /* WJBtnSelected@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "WJBtnSelected@3x.png"; sourceTree = "<group>"; };
+		04A74DE424BEA5BA00D075DA /* WJBtnUnSelected@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "WJBtnUnSelected@3x.png"; sourceTree = "<group>"; };
+		04A74DE524BEA5BA00D075DA /* WJBtnUnSelected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "WJBtnUnSelected@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,12 +131,16 @@
 		04A74D9224BE984300D075DA /* WJPhotoBrowser */ = {
 			isa = PBXGroup;
 			children = (
+				04A74DEA24BEAF3300D075DA /* Resource */,
+				04A74DC824BE985300D075DA /* core */,
 				04A74D9324BE984300D075DA /* AppDelegate.h */,
 				04A74D9424BE984300D075DA /* AppDelegate.m */,
 				04A74D9624BE984300D075DA /* SceneDelegate.h */,
 				04A74D9724BE984300D075DA /* SceneDelegate.m */,
 				04A74D9924BE984300D075DA /* ViewController.h */,
 				04A74D9A24BE984300D075DA /* ViewController.m */,
+				04A74DC924BE987900D075DA /* MainViewController.h */,
+				04A74DCA24BE987900D075DA /* MainViewController.m */,
 				04A74D9C24BE984300D075DA /* Main.storyboard */,
 				04A74D9F24BE984500D075DA /* Assets.xcassets */,
 				04A74DA124BE984500D075DA /* LaunchScreen.storyboard */,
@@ -135,6 +166,34 @@
 				04A74DBC24BE984500D075DA /* Info.plist */,
 			);
 			path = WJPhotoBrowserUITests;
+			sourceTree = "<group>";
+		};
+		04A74DC824BE985300D075DA /* core */ = {
+			isa = PBXGroup;
+			children = (
+				04A74DCC24BE992500D075DA /* WJPhotoTools.h */,
+				04A74DCD24BE992500D075DA /* WJPhotoTools.m */,
+				04A74DCF24BE99C700D075DA /* WJPhotoAlbumModel.h */,
+				04A74DD024BE99C700D075DA /* WJPhotoAlbumModel.m */,
+				04A74DD324BE9A1200D075DA /* WJPhotoModel.h */,
+				04A74DD424BE9A1200D075DA /* WJPhotoModel.m */,
+				04A74DD924BE9F6200D075DA /* WJCollectionViewCell.h */,
+				04A74DDA24BE9F6200D075DA /* WJCollectionViewCell.m */,
+			);
+			path = core;
+			sourceTree = "<group>";
+		};
+		04A74DEA24BEAF3300D075DA /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				04A74DE224BEA5BA00D075DA /* WJBtnSelected@2x.png */,
+				04A74DE324BEA5BA00D075DA /* WJBtnSelected@3x.png */,
+				04A74DE524BEA5BA00D075DA /* WJBtnUnSelected@2x.png */,
+				04A74DE424BEA5BA00D075DA /* WJBtnUnSelected@3x.png */,
+				04A74DDE24BEA59B00D075DA /* WJVideo@2x.png */,
+				04A74DDF24BEA59B00D075DA /* WJVideo@3x.png */,
+			);
+			path = Resource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -241,6 +300,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				04A74DA324BE984500D075DA /* LaunchScreen.storyboard in Resources */,
+				04A74DE124BEA59C00D075DA /* WJVideo@3x.png in Resources */,
+				04A74DE024BEA59C00D075DA /* WJVideo@2x.png in Resources */,
+				04A74DE824BEA5BB00D075DA /* WJBtnUnSelected@3x.png in Resources */,
+				04A74DE924BEA5BB00D075DA /* WJBtnUnSelected@2x.png in Resources */,
+				04A74DE624BEA5BB00D075DA /* WJBtnSelected@2x.png in Resources */,
+				04A74DE724BEA5BB00D075DA /* WJBtnSelected@3x.png in Resources */,
 				04A74DA024BE984500D075DA /* Assets.xcassets in Resources */,
 				04A74D9E24BE984300D075DA /* Main.storyboard in Resources */,
 			);
@@ -268,8 +333,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				04A74D9B24BE984300D075DA /* ViewController.m in Sources */,
+				04A74DCE24BE992500D075DA /* WJPhotoTools.m in Sources */,
 				04A74D9524BE984300D075DA /* AppDelegate.m in Sources */,
 				04A74DA624BE984500D075DA /* main.m in Sources */,
+				04A74DCB24BE987900D075DA /* MainViewController.m in Sources */,
+				04A74DDB24BE9F6200D075DA /* WJCollectionViewCell.m in Sources */,
+				04A74DD524BE9A1200D075DA /* WJPhotoModel.m in Sources */,
+				04A74DD124BE99C700D075DA /* WJPhotoAlbumModel.m in Sources */,
 				04A74D9824BE984300D075DA /* SceneDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -439,6 +509,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 292V2CN6SF;
 				INFOPLIST_FILE = WJPhotoBrowser/Info.plist;
@@ -448,7 +519,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.Aomei.WJPhotoBrowser;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = "1,2";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -456,6 +528,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 292V2CN6SF;
 				INFOPLIST_FILE = WJPhotoBrowser/Info.plist;
@@ -465,7 +538,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.Aomei.WJPhotoBrowser;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = "1,2";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
